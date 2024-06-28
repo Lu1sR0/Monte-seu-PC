@@ -1,0 +1,1 @@
+ C:\\Users\\luisc\\Downloads\\monteseupc\\.dart_tool\\flutter_build\\41881ea653e6799e761c8858dc8ff2bd\\native_assets.yaml: 
