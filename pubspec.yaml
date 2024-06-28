@@ -1,0 +1,83 @@
+name: dreampcbuilder
+description: "A new Flutter project."
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  printing: ^5.6.0
+  cupertino_icons: ^1.0.6
+  pdf: ^3.10.8
+  animated_splash_screen: ^1.3.0
+  lottie: ^3.1.2
+  shared_preferences: ^2.0.9
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/pcbuild.jpg
+    - assets/teladefundo.jpg
+    - assets/facebook_icon.png
+    - assets/google_icon.png
+    - assets/logoamefesthdeitadafundobranco.png
+    - assets/montarpc.jpg      
+    - assets/logoamefesthfinal.png
+    - assets/lottie/Animation - 1718151796539.json
+    - assets/amd.jpg
+    - assets/amd1.jpg
+    - assets/amd2.jpg
+    - assets/case.jpg
+    - assets/case1.jpg
+    - assets/case2.jpg
+    - assets/case3.jpg
+    - assets/cooler.jpg
+    - assets/cooler1.jpg
+    - assets/cooler2.jpg
+    - assets/cooler3.jpg
+    - assets/cooler4.jpg
+    - assets/cooler5.jpg
+    - assets/fonte.jpg
+    - assets/fonte1.jpg
+    - assets/fonte2.jpg
+    - assets/fonte3.jpg
+    - assets/gpu.jpg
+    - assets/gpu1.jpg
+    - assets/gpu2.jpg
+    - assets/gpu3.jpg
+    - assets/gpu4.jpg
+    - assets/gpu5.jpg
+    - assets/intel.jpg
+    - assets/intel1.jpg
+    - assets/intel3.jpg
+    - assets/ram.jpg
+    - assets/ram1.jpg
+    - assets/ram2.jpg
+    - assets/ram3.jpg
+    - assets/ram4.jpg
+    - assets/ram5.jpg
+    - assets/espaco.jpg
+    - assets/espaco1.jpg
+    - assets/espaco2.jpg
+    - assets/espaco3.jpg
+    - assets/espaco4.jpg
+    - assets/espaco5.jpg
+    
+    
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+          weight: 700
